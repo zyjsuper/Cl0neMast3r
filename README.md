@@ -1,11 +1,11 @@
 # Cl0neMast3r
-About:
+About:<br>
 Cl0neMast3r is a Python script that was coded to make your life easier. 
 Now you can easily choose your favorite tools from GitHub and install them on your system with one click.
 Even better you can ensure that you have latest version of your favorite tools.
 All this and more you can do with Clone master.
 
-Clone Master was mainly made for penetration testers and bug hunters 😉
+Clone Master was mainly made for penetration testers and bug hunters 😉<br>
 Options:
 Cl0neMast3r provides you with a lot of options:
 
